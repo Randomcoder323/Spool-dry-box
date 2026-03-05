@@ -11,3 +11,10 @@ I started working on the cad and tool measurments ot make sure the holder fits. 
 
 
 **Total time spent: 0.7h**
+
+
+# March 5; 6:33pm : Continued CAD 
+
+I continued my CAD work, designed the spool holder/rotator I then also also added a connecter piece to put them togethet!
+
+**Total time spent: 0.3h**
