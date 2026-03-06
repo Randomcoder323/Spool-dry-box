@@ -19,3 +19,8 @@ I continued my CAD work, designed the spool holder/rotator I then also also adde
 <img width="611" height="442" alt="Screenshot 2026-03-05 at 6 33 30 PM" src="https://github.com/user-attachments/assets/faf3d16e-3597-47af-bee8-ac79de233f08" />
 
 **Total time spent: 0.3h**
+
+# March 6; 7:33AM : BOM work 
+I founds better prices on aliexpress for the cereal box, ptfe tube and Ptfe connector. I put all the links in the BOM sheet and put in the prices. I found some cheap silica beads to keep the box actually dry. I then lastly polished the BOM and doubled checked the price at checkouts
+
+**Total time spent: 0.5h**
