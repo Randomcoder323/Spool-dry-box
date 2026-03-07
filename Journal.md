@@ -36,7 +36,7 @@ I looked into designing a pcb for humidty and easyeda, however I saw it as veryh
 **Total time spent: 0.5h**
 
 
-#Total time, 2.3 hours
+# Total project time, 2.3 hours
 
 This is probably a bit less than what I spent because I did so many short work sittings, but I love how this turned out! 
 
