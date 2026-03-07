@@ -24,3 +24,11 @@ I continued my CAD work, designed the spool holder/rotator I then also also adde
 I founds better prices on aliexpress for the cereal box, ptfe tube and Ptfe connector. I put all the links in the BOM sheet and put in the prices. I found some cheap silica beads to keep the box actually dry. I then lastly polished the BOM and doubled checked the price at checkouts
 
 **Total time spent: 0.5h**
+
+# March 7; 12:34 PM : Readme.md and assembling CAD 
+I moved the journals to the correct file (journal.md), I then started working on the readme.md, I made the description, added pictures, explained how I will asseble it, etc. I looked at the rework website and follwoed the sumbmission guidelines. I might start looking into pcb option for humidty.
+
+**Total time spent: 0.3h**
+
+
+
