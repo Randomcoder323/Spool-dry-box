@@ -1,26 +1,22 @@
-# March 5; 6:15pm : Started CAD and found parts
+# Da Filament Dry Box
+This is a filament dry box in a 4L cereal box, you can add silica gell at the bottom to keep this extra dry. I use bearing along with a 3d printed spool holder to keep everything together and spinnign smooth!
 
-I started working on the cad and tool measurments ot make sure the holder fits. I used a bit of tolerance to allow for a tight fit. I then found some of the ptfe tubes needed from aliexpress and the connecter too. I found some bearings and incorparated them in the design. 
+## How will I make this?
+I will 3d print the holder and insert it into the box, I will also add the silica gel at the bottom. I will make a hole in the lid for the ptfe tube connector and will super glue it in place. I will insert the ptfe tube and start printing!
 
-<img width="405" height="434" alt="Screenshot 2026-03-05 at 6 17 41 PM" src="https://github.com/user-attachments/assets/305265f4-7a82-4351-a31a-787a1a354628" />
+## Why? 
+I made this because currently, my filament sits out in the open air, gathering moisture. This make printing really dificuly, because of all the stirnging. Using this box, I will be able to keep my filament dry and nice!
 
-<img width="430" height="443" alt="Screenshot 2026-03-05 at 6 17 46 PM" src="https://github.com/user-attachments/assets/52acb1c8-6824-4fec-947b-ed0f60969f3b" />
-<img width="457" height="306" alt="Screenshot 2026-03-05 at 6 17 51 PM" src="https://github.com/user-attachments/assets/7aa5055b-ae5b-498d-8330-07713687281f" />
+<img width="745" height="445" alt="Screenshot 2026-03-07 at 12 24 51 PM" src="https://github.com/user-attachments/assets/8f3c10a4-508a-4066-914c-927338652166" />
 
-[pictures of what you worked on]
+## BOM
 
-
-**Total time spent: 0.7h**
-
-
-# March 5; 6:33pm : Continued CAD 
-
-I continued my CAD work, designed the spool holder/rotator I then also also added a connecter piece to put them togethet!
-<img width="611" height="442" alt="Screenshot 2026-03-05 at 6 33 30 PM" src="https://github.com/user-attachments/assets/faf3d16e-3597-47af-bee8-ac79de233f08" />
-
-**Total time spent: 0.3h**
-
-# March 6; 7:33AM : BOM work 
-I founds better prices on aliexpress for the cereal box, ptfe tube and Ptfe connector. I put all the links in the BOM sheet and put in the prices. I found some cheap silica beads to keep the box actually dry. I then lastly polished the BOM and doubled checked the price at checkouts
-
-**Total time spent: 0.5h**
+| Name | Quantity | Price | Link |
+|-----|-----|-----|-----|
+| 4L Cereal Box | 1 | $8.43 | https://www.aliexpress.us/item/3256808016670867.html |
+| 2M PTFE Tube | 1 | $3.40 | https://www.aliexpress.us/item/3256807966131145.html |
+| PTFE Tube Connector | 1 | $2.00 | https://www.aliexpress.us/item/3256808598454855.html |
+| 608ZZ Bearings | 10 min pack | $2.96 | https://www.aliexpress.us/item/3256805591837783.html |
+| Silica Gels | 100g | $3.81 | https://a.aliexpress.com/_mNummGV |
+| 3D Prints | - | - | - |
+| **Coupons Applied** |  | **-$20** |  |
