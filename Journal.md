@@ -31,4 +31,14 @@ I moved the journals to the correct file (journal.md), I then started working on
 **Total time spent: 0.3h**
 
 
+# March 7; 1:11 PM : Tried PCB and polished, and sliced
+I looked into designing a pcb for humidty and easyeda, however I saw it as veryhard to fit into this little box, especially since it needs power. I doubled checked the submisison guidelines and sliced the 3d models. I had to cut them in the slicer because the main body won't fit on my a1 mini, I really like how it turned out!
+**Total time spent: 0.5h**
+
+
+#Total time, 2.3 hours
+
+This is probably a bit less than what I spent because I did so many short work sittings, but I love how this turned out! 
+
+
 
