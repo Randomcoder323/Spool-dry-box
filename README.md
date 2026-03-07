@@ -23,5 +23,11 @@ I made this because currently, my filament sits out in the open air, gathering m
 | PTFE Tube Connector | 1 | $2.00 | https://www.aliexpress.us/item/3256808598454855.html |
 | 608ZZ Bearings | 10 min pack | $2.96 | https://www.aliexpress.us/item/3256805591837783.html |
 | Silica Gels | 100g | $3.81 | https://a.aliexpress.com/_mNummGV |
-| 3D Prints | - | - | - |
+| 3D Prints | 162G | - | - |
 | **Coupons Applied** |  | **-$20** |  |
+
+
+<img width="801" height="451" alt="Screenshot 2026-03-07 at 12 57 53 PM" src="https://github.com/user-attachments/assets/ea23c8d0-446c-4d34-b229-4d52d4afaf10" />
+<img width="780" height="508" alt="Screenshot 2026-03-07 at 12 57 46 PM" src="https://github.com/user-attachments/assets/d0faf479-ec2a-4212-8a2a-246022ac3ffc" />
+<img width="1032" height="298" alt="Screenshot 2026-03-07 at 12 58 05 PM" src="https://github.com/user-attachments/assets/e0a71f87-3a2e-4101-99d1-e0bfb8d17b1f" />
+
