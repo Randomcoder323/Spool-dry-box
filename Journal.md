@@ -32,7 +32,6 @@ I started this journal by mirroring the holder, so the spool is help throughout.
 <img width="719" height="540" alt="Screenshot 2026-03-19 at 1 48 43 PM" src="https://github.com/user-attachments/assets/54ce19f8-5258-4e36-92e2-9650392167e9" />
 
 <img width="617" height="516" alt="Screenshot 2026-03-19 at 1 49 17 PM" src="https://github.com/user-attachments/assets/b2584e3c-73de-4683-bb68-dcf6a870bef6" />
-<img width="802" height="421" alt="Screenshot 2026-03-19 at 1 49 58 PM" src="https://github.com/user-attachments/assets/96010967-94d9-4f29-bad9-303c53e0dd0c" />
 
 
 
@@ -49,13 +48,22 @@ I founds better prices on aliexpress for the cereal box, ptfe tube and Ptfe conn
 **Total time spent: 0.5h**
 
 # March 7; 12:34 PM : Readme.md and assembling CAD 
-I moved the journals to the correct file (journal.md), I then started working on the readme.md, I made the description, added pictures, explained how I will asseble it, etc. I looked at the rework website and follwoed the sumbmission guidelines. I might start looking into pcb option for humidty.
+I moved the journals to the correct file (journal.md), I then started working on the readme.md, I made the description, added pictures, explained how I will assemble it, etc. I looked at the rework website and followed the sumbmission guidelines. I might start looking into pcb option for humidty.
+
+<img width="802" height="421" alt="Screenshot 2026-03-19 at 1 49 58 PM" src="https://github.com/user-attachments/assets/96010967-94d9-4f29-bad9-303c53e0dd0c" />
+<img width="566" height="630" alt="Screenshot 2026-03-19 at 2 03 11 PM" src="https://github.com/user-attachments/assets/87adc258-09fd-42f9-988a-dc3499e09883" />
+<img width="473" height="613" alt="Screenshot 2026-03-19 at 2 03 22 PM" src="https://github.com/user-attachments/assets/0d9b88b1-5cf3-4a1c-a7b2-24be5d14a2a3" />
 
 **Total time spent: 0.3h**
 
 
 # March 7; 1:11 PM : Tried PCB and polished, and sliced
-I looked into designing a pcb for humidty and easyeda, however I saw it as veryhard to fit into this little box, especially since it needs power. I doubled checked the submisison guidelines and sliced the 3d models. I had to cut them in the slicer because the main body won't fit on my a1 mini, I really like how it turned out!
+I looked into designing a pcb for humidty and easyeda, however I saw it as veryhard to fit into this little box, especially since it needs power. I doubled checked the submisison guidelines and sliced the 3d models. I had to cut them in the slicer because the main body won't fit on my a1 mini, I really like how it turned out! I learned about the components that were used, such as the humity and temperature one.
+<img width="700" height="207" alt="Screenshot 2026-03-19 at 2 05 55 PM" src="https://github.com/user-attachments/assets/95e30021-22b9-46af-86d9-898381545d6d" />
+<img width="1602" height="902" alt="image" src="https://github.com/user-attachments/assets/8d00c1c0-a6e5-44b5-9bdc-aa31de091b4e" />
+<img width="1560" height="1016" alt="image" src="https://github.com/user-attachments/assets/b3b0acae-1a7c-4429-baaa-9fc7986fcf85" />
+<img width="688" height="625" alt="Screenshot 2026-03-19 at 2 06 54 PM" src="https://github.com/user-attachments/assets/75f2737b-e8b3-4030-bc43-6331438c6c4c" />
+
 **Total time spent: 0.5h**
 
 
