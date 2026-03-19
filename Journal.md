@@ -1,6 +1,8 @@
 # March 5; 6:15pm : Started CAD and found parts
 
-I started working on the cad and tool measurments ot make sure the holder fits. I used a bit of tolerance to allow for a tight fit. I then found some of the ptfe tubes needed from aliexpress and the connecter too. I found some bearings and incorparated them in the design. 
+ I found some of the ptfe tubes needed from aliexpress and the connecter so they can be glued onn the top of the box. I found some bearings and incorparated them in the rollers later to allow for smooth turning. The cereal box I found had some dimension so I documented those down.
+
+ I started working on the cad and tool measurments ot make sure the holder fits. I used a bit of tolerance to allow for a tight fit.
 
 <img width="405" height="434" alt="Screenshot 2026-03-05 at 6 17 41 PM" src="https://github.com/user-attachments/assets/305265f4-7a82-4351-a31a-787a1a354628" />
 
