@@ -25,6 +25,15 @@ I started CAD by making the base of the cereal roller, took the dimensions from 
 
 I continued my CAD work, designed the spool holder/rotator I then also also added a connecter piece to put them togethet!
 <img width="611" height="442" alt="Screenshot 2026-03-05 at 6 33 30 PM" src="https://github.com/user-attachments/assets/faf3d16e-3597-47af-bee8-ac79de233f08" />
+<img width="463" height="509" alt="Screenshot 2026-03-19 at 1 47 53 PM" src="https://github.com/user-attachments/assets/d260f890-e665-41ea-844d-8ac35ec29758" />
+<img width="333" height="320" alt="Screenshot 2026-03-19 at 1 48 14 PM" src="https://github.com/user-attachments/assets/320934b4-a0e8-49d2-9da1-ba6fd2ceb312" />
+<img width="344" height="339" alt="Screenshot 2026-03-19 at 1 48 22 PM" src="https://github.com/user-attachments/assets/2b47be5e-1d2f-43db-a630-bb63cc06a0dd" />
+<img width="719" height="540" alt="Screenshot 2026-03-19 at 1 48 43 PM" src="https://github.com/user-attachments/assets/54ce19f8-5258-4e36-92e2-9650392167e9" />
+
+<img width="617" height="516" alt="Screenshot 2026-03-19 at 1 49 17 PM" src="https://github.com/user-attachments/assets/b2584e3c-73de-4683-bb68-dcf6a870bef6" />
+<img width="802" height="421" alt="Screenshot 2026-03-19 at 1 49 58 PM" src="https://github.com/user-attachments/assets/96010967-94d9-4f29-bad9-303c53e0dd0c" />
+
+
 
 **Total time spent: 0.3h**
 
