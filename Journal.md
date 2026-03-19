@@ -1,11 +1,10 @@
 # March 5; 6:15pm : Started CAD and found parts
 
- I found some of the ptfe tubes needed from aliexpress and the connecter so they can be glued onn the top of the box. I found some bearings and incorparated them in the rollers later to allow for smooth turning. The cereal box I found had some dimension so I documented those down.
+ I found some of the ptfe tubes needed from aliexpress and the connecter so they can be glued onn the top of the box. I found some bearings and incorparated them in the rollers later to allow for smooth turning. The cereal box I found had some dimension so I documented those down. Its about 24x11 cm, length doesn't really matter.
 
- I started working on the cad and tool measurments ot make sure the holder fits. I used a bit of tolerance to allow for a tight fit.
 
 <img width="405" height="434" alt="Screenshot 2026-03-05 at 6 17 41 PM" src="https://github.com/user-attachments/assets/305265f4-7a82-4351-a31a-787a1a354628" />
-
+<img width="703" height="434" alt="Screenshot 2026-03-19 at 1 38 11 PM" src="https://github.com/user-attachments/assets/faab3231-3cbc-4ca4-a2bd-fea984cb7ef2" />
 <img width="430" height="443" alt="Screenshot 2026-03-05 at 6 17 46 PM" src="https://github.com/user-attachments/assets/52acb1c8-6824-4fec-947b-ed0f60969f3b" />
 <img width="457" height="306" alt="Screenshot 2026-03-05 at 6 17 51 PM" src="https://github.com/user-attachments/assets/7aa5055b-ae5b-498d-8330-07713687281f" />
 <img width="556" height="397" alt="Screenshot 2026-03-19 at 1 10 35 PM" src="https://github.com/user-attachments/assets/442403a4-d107-423b-b388-2dda6d4cc52d" />
