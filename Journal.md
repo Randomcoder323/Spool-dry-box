@@ -2,6 +2,7 @@
 
  I found some of the ptfe tubes needed from aliexpress and the connecter so they can be glued onn the top of the box. I found some bearings and incorparated them in the rollers later to allow for smooth turning. The cereal box I found had some dimension so I documented those down. Its about 24x11 cm, length doesn't really matter.
 
+I started CAD by making the base of the cereal roller, took the dimensions from the picture and rounded of the corners, next I added a rectangle which will be the base for the roller. After that I lofted the bottom, so it can be printed without supports. I made a teardrop shape for the bearing hole so It doesn't drop while printing
 
 <img width="405" height="434" alt="Screenshot 2026-03-05 at 6 17 41 PM" src="https://github.com/user-attachments/assets/305265f4-7a82-4351-a31a-787a1a354628" />
 <img width="703" height="434" alt="Screenshot 2026-03-19 at 1 38 11 PM" src="https://github.com/user-attachments/assets/faab3231-3cbc-4ca4-a2bd-fea984cb7ef2" />
