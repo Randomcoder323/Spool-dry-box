@@ -6,6 +6,12 @@ I started working on the cad and tool measurments ot make sure the holder fits. 
 
 <img width="430" height="443" alt="Screenshot 2026-03-05 at 6 17 46 PM" src="https://github.com/user-attachments/assets/52acb1c8-6824-4fec-947b-ed0f60969f3b" />
 <img width="457" height="306" alt="Screenshot 2026-03-05 at 6 17 51 PM" src="https://github.com/user-attachments/assets/7aa5055b-ae5b-498d-8330-07713687281f" />
+<img width="556" height="397" alt="Screenshot 2026-03-19 at 1 10 35 PM" src="https://github.com/user-attachments/assets/442403a4-d107-423b-b388-2dda6d4cc52d" />
+<img width="346" height="442" alt="Screenshot 2026-03-19 at 1 10 55 PM" src="https://github.com/user-attachments/assets/676ad68f-f9ec-4b3e-b21a-bc09432e9db2" />
+<img width="282" height="457" alt="Screenshot 2026-03-19 at 1 11 10 PM" src="https://github.com/user-attachments/assets/dd452419-353e-4f01-897b-088695eaa36a" />
+<img width="394" height="503" alt="Screenshot 2026-03-19 at 1 11 24 PM" src="https://github.com/user-attachments/assets/56b25bda-5092-411f-8cd5-d656ccb793d7" />
+
+
 
 [pictures of what you worked on]
 
