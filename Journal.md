@@ -23,7 +23,8 @@ I started CAD by making the base of the cereal roller, took the dimensions from 
 
 # March 5; 6:33pm : Continued CAD 
 
-I continued my CAD work, designed the spool holder/rotator I then also also added a connecter piece to put them togethet!
+I started this journal by mirroring the holder, so the spool is help throughout. I Creater a roller out of a circle that has some cutouts, It doesn't look the best but works.I created a peg that goes through the inner diameter of the bearing on the side. I then transformed the roller pieces and created a hexagon whole in it. I then created the hexagon to put them together in middle.
+
 <img width="611" height="442" alt="Screenshot 2026-03-05 at 6 33 30 PM" src="https://github.com/user-attachments/assets/faf3d16e-3597-47af-bee8-ac79de233f08" />
 <img width="463" height="509" alt="Screenshot 2026-03-19 at 1 47 53 PM" src="https://github.com/user-attachments/assets/d260f890-e665-41ea-844d-8ac35ec29758" />
 <img width="333" height="320" alt="Screenshot 2026-03-19 at 1 48 14 PM" src="https://github.com/user-attachments/assets/320934b4-a0e8-49d2-9da1-ba6fd2ceb312" />
