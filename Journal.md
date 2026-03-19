@@ -40,6 +40,11 @@ I started this journal by mirroring the holder, so the spool is help throughout.
 
 # March 6; 7:33AM : BOM work 
 I founds better prices on aliexpress for the cereal box, ptfe tube and Ptfe connector. I put all the links in the BOM sheet and put in the prices. I found some cheap silica beads to keep the box actually dry. I then lastly polished the BOM and doubled checked the price at checkouts
+<img width="344" height="385" alt="Screenshot 2026-03-19 at 1 59 54 PM" src="https://github.com/user-attachments/assets/09ea276e-4692-4b43-8a17-697f84d06b84" />
+<img width="320" height="414" alt="Screenshot 2026-03-19 at 2 00 04 PM" src="https://github.com/user-attachments/assets/84044530-9e60-40af-8527-bc480eb8cb05" />
+<img width="382" height="392" alt="Screenshot 2026-03-19 at 2 00 14 PM" src="https://github.com/user-attachments/assets/777a2890-0825-4d27-bdda-4e103e6c14c1" />
+<img width="392" height="324" alt="Screenshot 2026-03-19 at 2 01 32 PM" src="https://github.com/user-attachments/assets/1789c171-4164-4e64-a1cd-02a362fc714a" />
+<img width="686" height="301" alt="Screenshot 2026-03-19 at 1 58 56 PM" src="https://github.com/user-attachments/assets/3eef3d24-8b79-4fdf-8e1d-1fc4dea00590" />
 
 **Total time spent: 0.5h**
 
